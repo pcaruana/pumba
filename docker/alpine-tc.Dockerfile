@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.19.4
 
 LABEL com.gaiaadm.pumba.skip=true
 
